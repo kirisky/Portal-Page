@@ -12,7 +12,7 @@ A protal page for my repos.
 [Dev-env scripts](https://github.com/kirisky/EnvScripts)
 
 
-## Playground
+## Miscellaneous
 
 [Papers](https://github.com/kirisky/PaperCollection)
 [99-Problems](https://github.com/kirisky/NinetyNine-Problems)
