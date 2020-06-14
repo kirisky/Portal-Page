@@ -11,5 +11,5 @@ A protal page for my repos.
 ## Miscellaneous
 
 [Papers](https://github.com/kirisky/PaperCollection)    
-[99-Problems](https://github.com/kirisky/NinetyNine-Problems)
+[99-Problems](https://github.com/kirisky/NinetyNine-Problems)     
 [Cheat Sheets](https://github.com/kirisky/CheatSheets)
