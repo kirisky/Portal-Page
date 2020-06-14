@@ -2,10 +2,6 @@
 
 A protal page for my repos.
 
-## Projects
-
-
-
 
 ## Tools
 
